@@ -1,0 +1,2 @@
+-- SQLite
+INSERT INTO EMP_Data VALUES (4, 'Ann', 9, 'IT', 35000);
